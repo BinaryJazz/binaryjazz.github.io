@@ -1,0 +1,25 @@
+.binaryjazz {
+	background-color: #270075;
+	color: #eee;
+
+	h1 {
+		color: #ff603f;
+	}
+
+	.links--single {
+		span {
+			color: #eee;
+		}
+
+		a,
+		a:visited {
+			color: #ff603f;
+			border-color: #eee !important;
+		}
+
+		a:hover,
+		a:active {
+			color: #eee;
+		}
+	}
+}

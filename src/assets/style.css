@@ -42,6 +42,21 @@ html .solarized-light {
   html .solarized-light .links--single a:active {
     color: #586e75; }
 
+.binaryjazz {
+  background-color: #270075;
+  color: #eee; }
+  .binaryjazz h1 {
+    color: #ff603f; }
+  .binaryjazz .links--single span {
+    color: #eee; }
+  .binaryjazz .links--single a,
+  .binaryjazz .links--single a:visited {
+    color: #ff603f;
+    border-color: #eee !important; }
+  .binaryjazz .links--single a:hover,
+  .binaryjazz .links--single a:active {
+    color: #eee; }
+
 html * {
   color-profile: sRGB;
   rendering-intent: auto;
