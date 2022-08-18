@@ -7,7 +7,7 @@
 const links = [
 	{
 		name: "Binary Jazz",
-		url: "https://yoursite.com",
+		url: "https://binaryjazz.com",
 		icon: "link",
 		// Refer to FontAwesome documentation to determine if an icon should be a fas or fab. (Brands are fab, so most will be fab.)
 		// https://fontawesome.com/icons?d=gallery&p=2&m=free
@@ -15,25 +15,85 @@ const links = [
 	},
 	{
 		name: "Twitter",
-		url: "https://twitter.com/yourusername",
+		url: "https://twitter.com/binaryjazz",
 		icon: "twitter",
 		prefix: "fab"
 	},
 	{
-		name: "Facebook",
-		url: "https://facebook.com/yourusername",
-		icon: "facebook",
-		prefix: "fab"
-	},
-	{
 		name: "YouTube",
-		url: "https://youtube.com/yourchannel",
+		url: "https://www.youtube.com/channel/UCzfLfl04mY2jUvoon3o1Bmw",
 		icon: "youtube",
 		prefix: "fab"
 	},
 	{
+		name: "Apple Podcasts",
+		url: "https://itunes.apple.com/us/podcast/binary-jazz/id1331674043?mt=2&ls=1",
+		icon: "apple",
+		prefix: "fab"
+	},
+	{
+		name: "Google Podcasts",
+		url: "https://podcasts.google.com/feed/aHR0cHM6Ly9iaW5hcnlqYXp6LnVzL2ZlZWQvcG9kY2FzdC8",
+		icon: "google-play",
+		prefix: "fab"
+	},
+	{
+		name: "Spotify",
+		url: "https://open.spotify.com/show/0zKqXKRYe9s29N66InbAY0",
+		icon: "spotify",
+		prefix: "fab"
+	},
+	{
+		name: "Android",
+		url: "https://subscribeonandroid.com/binaryjazz.us/feed/podcast/",
+		icon: "android",
+		prefix: "fab"
+	},
+	{
+		name: "Stitcher",
+		url: "https://www.stitcher.com/podcast/binary-jazz?refid=stpr",
+		icon: "microphone-alt",
+		prefix: "fas"
+	},
+	{
+		name: "Pandora",
+		url: "https://www.pandora.com/podcast/binary-jazz/PC:28295",
+		icon: "podcast",
+		prefix: "fas"
+	},
+	{
+		name: "Subscribe by Email",
+		url: "https://subscribebyemail.com/binaryjazz.us/feed/podcast/",
+		icon: "envelope",
+		prefix: "fas"
+	},
+	{
+		name: "RSS",
+		url: "https://binaryjazz.us/feed/podcast/",
+		icon: "rss",
+		prefix: "fas"
+	},
+	{
+		name: "Genrenator",
+		url: "https://binaryjazz.us/genrenator-api/",
+		icon: "robot",
+		prefix: "fas"
+	},
+	{
+		name: "Ground Control Bot",
+		url: "https://groundcontrolbot.space/",
+		icon: "space-shuttle",
+		prefix: "fas"
+	},
+	{
+		name: "Contact us!",
+		url: "https://binaryjazz.us/contact/",
+		icon: "paper-plane",
+		prefix: "fas"
+	},
+	{
 		name: "GitHub",
-		url: "https://github.com/yourusername",
+		url: "https://github.com/BinaryJazz",
 		icon: "github",
 		prefix: "fab"
 	}
