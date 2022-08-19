@@ -1,5 +1,5 @@
 const gulp = require( 'gulp' ),
-	sass = require( 'gulp-sass' ),
+	sass = require( 'node-sass' ),
 	del = require( 'del' );
 
 gulp.task( 'styles', () => {
