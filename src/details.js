@@ -63,19 +63,19 @@ const links = [
 	},
 	{
 		name: "Subscribe by Email",
-		url: "https://subscribebyemail.com/binaryjazz.us/feed/podcast/",
+		url: "https://subscribebyemail.com/binaryjazz.com/feed/podcast/",
 		icon: "envelope",
 		prefix: "fas"
 	},
 	{
 		name: "RSS",
-		url: "https://binaryjazz.us/feed/podcast/",
+		url: "https://binaryjazz.com/feed/podcast/",
 		icon: "rss",
 		prefix: "fas"
 	},
 	{
 		name: "Genrenator",
-		url: "https://binaryjazz.us/genrenator-api/",
+		url: "https://binaryjazz.com/genrenator-api/",
 		icon: "robot",
 		prefix: "fas"
 	},
@@ -87,7 +87,7 @@ const links = [
 	},
 	{
 		name: "Contact us!",
-		url: "https://binaryjazz.us/contact/",
+		url: "https://binaryjazz.com/contact/",
 		icon: "paper-plane",
 		prefix: "fas"
 	},
